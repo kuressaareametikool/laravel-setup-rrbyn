@@ -20,7 +20,8 @@ https://docs.docker.com/get-started/
 
 3) Clonei repo
 
-4)Testide jooksutamiseks vajaliku tarvara saamiseks kirjuta terminali:
+
+4) Testide jooksutamiseks vajaliku tarvara saamiseks kirjuta terminali:
 
  ``` composer install ```
 
